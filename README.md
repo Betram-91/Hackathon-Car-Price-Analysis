@@ -14,9 +14,10 @@ I downloaded the dataset from Kaggle.
 # Business Requirements
 The goal is to help a car company understand:
 
-What features affect car prices
-Which car types are cheaper or more expensive
-Which brands give good value for money (performance vs. cost)
+- What features affect car prices
+- Which car types are cheaper or more expensive
+- Which brands give good value for money (performance vs. cost)
+
 This can help the company make better decisions about pricing and design.
 
 As a student, I am using this project to practice data cleaning and finding answers to simple questions using Python, Pandas, and NumPy.
